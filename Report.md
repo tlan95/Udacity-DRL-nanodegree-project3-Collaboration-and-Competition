@@ -47,7 +47,7 @@ In a word, during the execution time, each actor has access to only its agent's 
 
 The codes consist of 2 files:
 
-- `model.py` : Implement the **Actor** and the **Critic** class.
+- `model.py` : Implement the **Actor** and the **Critic** class
     - Both Actor and Critic class implement a *Target* and a *Local* Neural Network for training.
     
 - `Tennis.ipynb` : 
